@@ -71,6 +71,8 @@ https://ko.javascript.info/ 브라우져
 # 숫자 맞추기 게임 
 아래 스펙을 구현하면서 자바스크립트 문법, DOM & BOM를 복습한다. ([예제](https://developer.mozilla.org/ko/docs/Learn/JavaScript/First_steps/A_first_splash))
 
+<img src="https://user-images.githubusercontent.com/2038652/73609864-fca23300-4614-11ea-8e3a-4e4a3b5fd567.png" width="400px" />
+
 
 - 1과 100사이의 숫자 중 무작위로 추출한다.
 - 1부터 플레이어의 차례를 기록한다.
