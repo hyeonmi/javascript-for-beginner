@@ -51,10 +51,6 @@
 
 ⌘ + J
 
-### 멀티커서
-
-⌥ + ⇧ + 🖱 / Alt + Shift + 🖱
-
 
 ## 스니펫 만들기
 https://code.visualstudio.com/docs/editor/userdefinedsnippets
